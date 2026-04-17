@@ -1,24 +1,25 @@
-# Sales Analysis – SQL & Dashboard Projekt
+# 📊 Sales Analysis SQL Dashboard
 
-Dieses Projekt zeigt einen vollständigen Data-Analytics-Workflow:
-von Rohdaten über SQL-Analysen bis hin zu einem Dashboard.
+Dieses Projekt zeigt ein vollständiges, kleines Sales-Analytics-Szenario mit PostgreSQL, SQL-Analysen, CSV-Daten und einem geplanten Dashboard.  
+Es ist so aufgebaut, wie ein professionelles Data-Analytics-Portfolio-Projekt.
 
-## 🔍 Projektziele
-- Daten bereinigen und strukturieren
-- SQL-Abfragen für Business Insights erstellen
-- KPIs wie Umsatz, Top-Produkte, Regionen analysieren
-- Dashboard zur Visualisierung der Ergebnisse bauen
+---
 
-## 📁 Projektstruktur (wird Schritt für Schritt aufgebaut)
-- `/data` – Rohdaten (CSV)
-- `/sql` – SQL-Abfragen
-- `/analysis` – Dokumentation der Ergebnisse
-- `/dashboard` – Excel- oder Power-BI-Dashboard
+## 🎯 Ziel des Projekts
 
-## 🧰 Verwendete Tools
-- SQL (PostgreSQL)
-- Excel / Power BI
-- Git & GitHub
+- Aufbau eines sauberen Datenmodells (Produkte, Kunden, Verkäufe)
+- Import von CSV-Daten in PostgreSQL
+- Erstellung von SQL-Abfragen für Analysen (KPIs, Top-Produkte, Regionen, Zeitverlauf)
+- Konzeption eines Dashboards für Management-Entscheidungen
 
-## 🚀 Status
-Projektstart – Struktur wird aufgebaut.
+---
+
+## 🧱 Projektstruktur
+
+```text
+sales-analysis-sql-dashboard/
+├── sql/          # Tabellen, Analysen, Views
+├── data/         # CSV-Daten (products, customers, sales)
+├── analysis/     # Dokumentation der Auswertungen
+├── dashboard/    # Dashboard-Konzept und Planung
+└── README.md     # Projektübersicht
