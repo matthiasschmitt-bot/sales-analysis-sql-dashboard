@@ -3,6 +3,22 @@
 Dieses Dokument fasst die wichtigsten Erkenntnisse aus den Verkaufsdaten zusammen.  
 Die Daten stammen aus den Tabellen **products**, **customers** und **sales**.
 
+
+## 🔹 Gesamtumsatz
+- Zeigt, wie viel Umsatz insgesamt generiert wurde.
+- Grundlage für alle weiteren KPIs.
+
+## 🔹 Top-Produkte
+- Identifiziert die Produkte mit der höchsten Nachfrage.
+- Wichtig für Sortimentsplanung und Marketing.
+
+## 🔹 Umsatz nach Region
+- Zeigt regionale Unterschiede.
+- Hilft bei der Planung von regionalen Kampagnen.
+
+## 🔹 Umsatz pro Monat
+- Zeigt saisonale Trends.
+- Grundlage für Forecasting.
 ---
 
 ## 🧮 1. Gesamtumsatz
