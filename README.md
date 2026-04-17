@@ -30,6 +30,11 @@
 <img width="1210" height="673" alt="image" src="https://github.com/user-attachments/assets/6192a2f5-14a1-42a2-bd59-76e38411a70c" />
 
 
+
+❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
+
+
+
 Dieses Projekt zeigt ein vollständiges, kleines Sales-Analytics-Szenario mit PostgreSQL, SQL-Analysen, CSV-Daten und einem geplanten Dashboard.  
 Es ist so aufgebaut, wie ein professionelles Data-Analytics-Portfolio-Projekt.
 
